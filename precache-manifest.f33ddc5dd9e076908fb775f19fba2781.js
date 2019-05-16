@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/joshwh1.d85fb6ef.jpg"
   },
   {
-    "revision": "41167197cff86a078f99",
-    "url": "/static/css/main.c3316d60.chunk.css"
+    "revision": "6a98cb8aced624a8a73d",
+    "url": "/static/css/main.db2accda.chunk.css"
   },
   {
     "revision": "0168be13de26aff1b092",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/static/media/forgiveness.96ff6d3d.jpg"
   },
   {
-    "revision": "41167197cff86a078f99",
-    "url": "/static/js/main.41167197.chunk.js"
+    "revision": "6a98cb8aced624a8a73d",
+    "url": "/static/js/main.6a98cb8a.chunk.js"
   },
   {
     "revision": "6ddbd3edd4fc44620e3d4b3a66838b4a",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/static/media/triumph.d034caf1.png"
   },
   {
-    "revision": "7b918a2dff8cddd09451a3cf1e7e0036",
+    "revision": "885f3fe92fbfc10e15dd556f7034f7e8",
     "url": "/index.html"
   }
 ];
