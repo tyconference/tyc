@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "96ff6d3d3ab26a049ccbbb8ce9ee501a",
-    "url": "/static/media/forgiveness.96ff6d3d.jpg"
+    "revision": "d85fb6ef092173a4c72761e4140ad04b",
+    "url": "/static/media/joshwh1.d85fb6ef.jpg"
   },
   {
-    "revision": "3b839835c4f545e14d04",
-    "url": "/static/css/main.27a4872b.chunk.css"
+    "revision": "41167197cff86a078f99",
+    "url": "/static/css/main.c3316d60.chunk.css"
   },
   {
-    "revision": "cf79c057385586db1e3e",
-    "url": "/static/js/1.cf79c057.chunk.js"
+    "revision": "0168be13de26aff1b092",
+    "url": "/static/js/1.0168be13.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -20,12 +20,12 @@ self.__precacheManifest = [
     "url": "/static/media/joshwh2.248a8b2d.jpg"
   },
   {
-    "revision": "3b839835c4f545e14d04",
-    "url": "/static/js/main.3b839835.chunk.js"
+    "revision": "96ff6d3d3ab26a049ccbbb8ce9ee501a",
+    "url": "/static/media/forgiveness.96ff6d3d.jpg"
   },
   {
-    "revision": "d85fb6ef092173a4c72761e4140ad04b",
-    "url": "/static/media/joshwh1.d85fb6ef.jpg"
+    "revision": "41167197cff86a078f99",
+    "url": "/static/js/main.41167197.chunk.js"
   },
   {
     "revision": "6ddbd3edd4fc44620e3d4b3a66838b4a",
@@ -40,7 +40,11 @@ self.__precacheManifest = [
     "url": "/static/media/WH_2017.e0ea49f8.pdf"
   },
   {
-    "revision": "13f7a6d0a9511b01eeda103c048b2867",
+    "revision": "d034caf1ca3074cabd1ffd03a6106c73",
+    "url": "/static/media/triumph.d034caf1.png"
+  },
+  {
+    "revision": "7b918a2dff8cddd09451a3cf1e7e0036",
     "url": "/index.html"
   }
 ];
