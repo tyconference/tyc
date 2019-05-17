@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/static/media/triumph.d034caf1.png"
   },
   {
-    "revision": "885f3fe92fbfc10e15dd556f7034f7e8",
+    "revision": "4b1f6a3dda0405f19ca0457f483eb3a0",
     "url": "/index.html"
   }
 ];
